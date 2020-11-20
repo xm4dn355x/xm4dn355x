@@ -29,4 +29,4 @@ What does this mean? About nothing))))
 </a>
 
 ## And some fun stuff with random meme
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width=500px>
