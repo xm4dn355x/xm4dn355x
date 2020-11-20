@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xm4dn355x&&show_icons=true&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xm4dn355x&theme=tokyonight&hide_langs_below=1&layout=compact)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xm4dn355x&&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4dn355x&theme=tokyonight&hide_langs_below=1&layout=compact" />
+</a>
 
 ### And some fun stuff with random meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
