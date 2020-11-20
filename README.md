@@ -18,7 +18,7 @@ What does this mean? About nothing))))
 - ⚡ Fun fact: Python is awesome!
 
 ## Current target
-Beat my previous commit streak record of 40 days everyday coding before the end of 2020!
+- Beat my previous commit streak record of 40 days everyday coding before the end of 2020!
 
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
