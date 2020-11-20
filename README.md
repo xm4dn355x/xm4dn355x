@@ -3,23 +3,19 @@
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xm4dn355x)
 -->
-<!--
+### That's how many people are interested in my profile
 ![Visitor Count](https://profile-counter.glitch.me/xm4dn355x/count.svg)
--->
-<!--
-**xm4dn355x/xm4dn355x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+What does this mean? About nothing))))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🔭 I’m currently working on: moving a lot of chatbots from TamTam to Telegram
+- 🌱 I’m currently learning: Django-REST-framework
+- 👯 I’m looking to collaborate on: my working projects
+- 🤔 I’m looking for help with: my working projects
+- 💬 Ask me about: Python TamTam chatbot API))))
+- 📫 How to reach me: this GitHub account
+- ⚡ Fun fact: Python is awesome!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xm4dn355x&&show_icons=true&theme=tokyonight" />
