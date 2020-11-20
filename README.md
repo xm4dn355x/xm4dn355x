@@ -17,6 +17,9 @@ What does this mean? About nothing))))
 - 📫 How to reach me: this GitHub account
 - ⚡ Fun fact: Python is awesome!
 
+## Current target
+Beat my previous commit streak record of 40 days everyday coding before the end of 2020!
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xm4dn355x&&show_icons=true&theme=tokyonight" />
 </a>
