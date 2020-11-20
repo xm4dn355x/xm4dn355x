@@ -20,6 +20,7 @@ What does this mean? About nothing))))
 ## Current target
 Beat my previous commit streak record of 40 days everyday coding before the end of 2020!
 
+## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xm4dn355x&&show_icons=true&theme=tokyonight" />
 </a>
@@ -27,5 +28,5 @@ Beat my previous commit streak record of 40 days everyday coding before the end 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4dn355x&theme=tokyonight&hide_langs_below=1&layout=compact" />
 </a>
 
-### And some fun stuff with random meme
+## And some fun stuff with random meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
