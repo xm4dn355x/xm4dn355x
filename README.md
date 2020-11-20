@@ -1,5 +1,5 @@
 ![](/header.png)
-# and I am a Python backend developer
+# I am a Python backend developer
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xm4dn355x)
 -->
@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xm4dn355x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xm4dn355x&&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xm4dn355x&theme=dark&hide_langs_below=1)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xm4dn355x&theme=tokyonight&hide_langs_below=1&layout=compact)
+
 
 ### And some fun stuff with random meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
