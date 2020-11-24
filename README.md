@@ -36,11 +36,11 @@ What does this mean? About nothing))))
 - 👯 I’m looking to collaborate on: my working projects
 - 🤔 I’m looking for help with: my working projects
 - 💬 Ask me about: Python TamTam chatbot API))))
-- 📫 How to reach me: this GitHub account
+- 📫 How to reach me: my social links are three paragraphs below
 - ⚡ Fun fact: Python is awesome!
 
 ## Current target
-- Beat my previous commit streak record of 40 days everyday coding before the end of 2020!
+- Beat my previous commit streak record of 40 days everyday coding before the end of 2020!✊
 
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
