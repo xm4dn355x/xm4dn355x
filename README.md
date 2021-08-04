@@ -74,8 +74,11 @@ What does this mean? About nothing))))
 ![RTX 2070](https://img.shields.io/badge/nvidia-rtx2070-%2376B900.svg?&style=for-the-badge&labelColor=black&logo=nvidia&logoColor=white)
 ![Win10 Pro](https://img.shields.io/badge/windows-10%20pro-%230078D6.svg?&style=for-the-badge&labelColor=black&logo=windows&logoColor=white)
 
+<!--
+Bye Bye my old PC... 
 ![Core i7](https://img.shields.io/badge/intel-core%20i7%202600-%230071C5.svg?&style=for-the-badge&labelColor=black&logo=intel&logoColor=white)
 ![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
+-->
 
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2013%202018-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
