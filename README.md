@@ -65,10 +65,9 @@ What does this mean? About nothing))))
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&labelColor=black&logo=twitter&logoColor=white)](https://twitter.com/m4dn355)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&labelColor=black&logo=linkedin&logoColor=white)]()
 -->
-<!--
-
+<!-- 
 [![Codewars](https://www.codewars.com/users/xm4dn355x/badges/large)](https://www.codewars.com/users/xm4dn355x/)
--->
+ -->
 
 ## My working setup
 ![Ryzen 2700X](https://img.shields.io/badge/amd-Ryzen%207%202700X-%23ED1C24.svg?&style=for-the-badge&labelColor=black&logo=amd&logoColor=white)
@@ -82,3 +81,7 @@ What does this mean? About nothing))))
 
 ## And some fun stuff with random meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width=500px>
+
+<!--
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xm4dn355x/&title=Profile%20Views)
+-->
