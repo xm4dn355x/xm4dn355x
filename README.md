@@ -71,7 +71,7 @@ What does this mean? About nothing))))
 
 ## My working setup
 ![Ryzen 2700X](https://img.shields.io/badge/amd-Ryzen%207%202700X-%23ED1C24.svg?&style=for-the-badge&labelColor=black&logo=amd&logoColor=white)
-![RTX 2070](https://img.shields.io/badge/nvidia-rtx2070-%2376B900.svg?&style=for-the-badge&labelColor=black&logo=nvidia&logoColor=white)
+![RTX 3070](https://img.shields.io/badge/nvidia-rtx3070-%2376B900.svg?&style=for-the-badge&labelColor=black&logo=nvidia&logoColor=white)
 ![Win10 Pro](https://img.shields.io/badge/windows-10%20pro-%230078D6.svg?&style=for-the-badge&labelColor=black&logo=windows&logoColor=white)
 
 <!--
