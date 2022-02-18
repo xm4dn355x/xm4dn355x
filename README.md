@@ -31,9 +31,9 @@ What does this mean? About nothing))))
 -->
 
 ## About me
-- 🔭 I’m currently working on: moving a lot of chatbots from TamTam to Telegram
-- 🌱 I’m currently learning: Django-REST-framework
-- 👯 I’m looking to collaborate on: my working projects
+- 🔭 I’m currently working on: adjusting on a new job
+- 🌱 I’m currently learning: FastAPI
+- 👯 I’m looking to collaborate on: Yamal.dev
 - 🤔 I’m looking for help with: my working projects
 - 💬 Ask me about: Python TamTam chatbot API))))
 - 📫 How to reach me: my social links are three paragraphs below
