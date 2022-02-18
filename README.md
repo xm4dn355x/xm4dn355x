@@ -34,7 +34,7 @@ What does this mean? About nothing))))
 - 🔭 I’m currently working on: adjusting on a new job
 - 🌱 I’m currently learning: FastAPI
 - 👯 I’m looking to collaborate on: Yamal.dev
-- 🤔 I’m looking for help with: my working projects
+- 🤔 I’m looking for help with: async Python
 - 💬 Ask me about: Python TamTam chatbot API))))
 - 📫 How to reach me: my social links are three paragraphs below
 - ⚡ Fun fact: Python is awesome!
