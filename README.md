@@ -61,7 +61,7 @@ I am lead of backend development in Yamal Media
 
 ## Social
 [![GitHub](https://img.shields.io/badge/Yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/yamal-dev)
-[![Yamal.dev](https://img.shields.io/badge/yamal.dev-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://yamal.dev)
+[![Yamal.dev](https://img.shields.io/badge/yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=GoogleChrome&logoColor=white)](https://yamal.dev)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&labelColor=black&logo=instagram&logoColor=white)](https://instagram.com/xm4dn355x)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/xM4DN355x)
 [![Telegram Channel](https://img.shields.io/badge/telegram%20memes%20channel-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/greta_tuborg)
