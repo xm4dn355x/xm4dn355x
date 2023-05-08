@@ -27,6 +27,7 @@ What does this mean? About nothing))))
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=Arduino&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&labelColor=black&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&labelColor=black&logo=jira&logoColor=white)
 <!--
 ![Openstack](https://img.shields.io/badge/Openstack-%23f01742.svg?&style=for-the-badge&labelColor=black&logo=openstack&logoColor=white)
 ![Cpp language](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&labelColor=black&logo=c%2B%2B&ogoColor=white)
