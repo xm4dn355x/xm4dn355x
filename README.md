@@ -53,7 +53,7 @@ What does this mean? About nothing))))
 </a>
 
 ## Social
-[![GitHub](https://img.shields.io/badge/Quack%20Duck%20Studios-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/Peace-Duck-Studios)
+[![GitHub](https://img.shields.io/badge/Yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/yamal-dev)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&labelColor=black&logo=instagram&logoColor=white)](https://instagram.com/xm4dn355x)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/joinchat/AAAAAFSHTSYSG7nkTYxTdg)
 [![VK](https://img.shields.io/badge/vk-%230077B5.svg?&style=for-the-badge&labelColor=black&logo=vk&logoColor=white)](https://vk.com/xm4dn3ssx)
@@ -62,6 +62,7 @@ What does this mean? About nothing))))
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&labelColor=black&logo=steam&logoColor=white)](https://steamcommunity.com/id/xM4DN355x)
 
 <!--
+[![GitHub](https://img.shields.io/badge/Quack%20Duck%20Studios-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/Peace-Duck-Studios)
 [![FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&labelColor=black&logo=facebook&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&labelColor=black&logo=discord&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&labelColor=black&logo=twitter&logoColor=white)](https://twitter.com/m4dn355)
