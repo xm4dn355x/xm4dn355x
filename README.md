@@ -49,7 +49,7 @@ What does this mean? About nothing))))
 I'm co-founder of [Yamal.dev](https://yamal.dev) and head of backend develompend in [Yamal-Media](https://yamal-media.ru/)
 
 ## Current target
-- Beat my previous commit streak record of 40 days everyday coding before the end of 2021!✊
+- Build my own cluster (in progress).
 
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
