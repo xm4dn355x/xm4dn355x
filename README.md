@@ -83,7 +83,7 @@ Bye Bye my old PC's...
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
 ![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
-![Debian server](https://img.shields.io/badge/Debian20server-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Debian server](https://img.shields.io/badge/Debian20server-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
 
 ## And some fun stuff with random meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width=500px>
