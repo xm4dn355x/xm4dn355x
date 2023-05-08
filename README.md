@@ -60,7 +60,7 @@ What does this mean? About nothing))))
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&labelColor=black&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCT4Z53WcLkpjL0RclxJvoUg)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&labelColor=black&logo=twitch&logoColor=white)](https://www.twitch.tv/xxm4dn355xx/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&labelColor=black&logo=steam&logoColor=white)](https://steamcommunity.com/id/xM4DN355x)
-[![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&labelColor=black&logo=spotify&logoColor=white)](https://open.spotify.com/user/wi26c39cqtcidjezk59rzwws9?si=TjbWce9QQDqZgYHQODthAg)
+
 <!--
 [![FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&labelColor=black&logo=facebook&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&labelColor=black&logo=discord&logoColor=white)]()
@@ -69,6 +69,8 @@ What does this mean? About nothing))))
 -->
 <!-- 
 [![Codewars](https://www.codewars.com/users/xm4dn355x/badges/large)](https://www.codewars.com/users/xm4dn355x/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)]()
+[![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&labelColor=black&logo=spotify&logoColor=white)](https://open.spotify.com/user/wi26c39cqtcidjezk59rzwws9?si=TjbWce9QQDqZgYHQODthAg)
  -->
 
 ## My working setup
