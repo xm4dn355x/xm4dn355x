@@ -71,7 +71,7 @@ What does this mean? About nothing))))
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/xM4DN355x)
 [![Telegram Channel](https://img.shields.io/badge/telegram%20memes%20channel-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/greta_tuborg)
 [![VK](https://img.shields.io/badge/vk-%230077B5.svg?&style=for-the-badge&labelColor=black&logo=vk&logoColor=white)](https://vk.com/xm4dn3ssx)
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&labelColor=black&logo=youtube&logoColor=white)](https://www.youtube.com/@tech_shirt))
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&labelColor=black&logo=youtube&logoColor=white)](https://www.youtube.com/@tech_shirt)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&labelColor=black&logo=twitch&logoColor=white)](https://www.twitch.tv/xxm4dn355xx/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&labelColor=black&logo=steam&logoColor=white)](https://steamcommunity.com/id/xM4DN355x)
 <!--
