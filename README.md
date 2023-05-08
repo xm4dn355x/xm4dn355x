@@ -32,6 +32,7 @@ What does this mean? About nothing))))
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&labelColor=black&logo=unreal%20engine&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&labelColor=black&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&labelColor=black&logo=vite&logoColor=white)
 -->
 
