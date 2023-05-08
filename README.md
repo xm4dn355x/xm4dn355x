@@ -1,8 +1,6 @@
 ![](/reheader.glitch.me.png)
 # I am a Python backend developer
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xm4dn355x)
--->
+
 ### That's how many people are interested in my profile
 ![Visitor Count](https://profile-counter.glitch.me/xm4dn355x/count.svg)
 
@@ -34,6 +32,7 @@ What does this mean? About nothing))))
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&labelColor=black&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&labelColor=black&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&labelColor=black&logo=obsidian&logoColor=white)
 <!--
 ![Openstack](https://img.shields.io/badge/Openstack-%23f01742.svg?&style=for-the-badge&labelColor=black&logo=openstack&logoColor=white)
 ![Cpp language](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&labelColor=black&logo=c%2B%2B&ogoColor=white)
