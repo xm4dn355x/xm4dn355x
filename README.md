@@ -81,7 +81,7 @@ Bye Bye my old PC's...
 -->
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2013%202018-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%203B+-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
 ![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 
 ## And some fun stuff with random meme
