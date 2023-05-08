@@ -46,7 +46,7 @@ What does this mean? About nothing))))
 -->
 
 ## About me
-I am lead of backend development in Yamal Media
+I'm co-founder of [Yamal.dev](https://yamal.dev) and head of backend develompend in [Yamal-Media](https://yamal-media.ru/)
 
 ## Current target
 - Beat my previous commit streak record of 40 days everyday coding before the end of 2021!✊
