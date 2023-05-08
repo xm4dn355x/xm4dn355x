@@ -70,23 +70,19 @@ What does this mean? About nothing))))
  -->
 
 ## My working setup
+<!--
+Bye Bye my old PC's... 
 ![Ryzen 2700X](https://img.shields.io/badge/amd-Ryzen%207%202700X-%23ED1C24.svg?&style=for-the-badge&labelColor=black&logo=amd&logoColor=white)
 ![RAM](https://img.shields.io/badge/ram-32%20GB-%2376B900.svg?&style=for-the-badge&labelColor=black)
 ![RTX 3070](https://img.shields.io/badge/nvidia-rtx3070-%2376B900.svg?&style=for-the-badge&labelColor=black&logo=nvidia&logoColor=white)
 ![Win10 Pro](https://img.shields.io/badge/windows-10%20pro-%230078D6.svg?&style=for-the-badge&labelColor=black&logo=windows&logoColor=white)
 
-<!--
-Bye Bye my old PC... 
 ![Core i7](https://img.shields.io/badge/intel-core%20i7%202600-%230071C5.svg?&style=for-the-badge&labelColor=black&logo=intel&logoColor=white)
--->
-<!--
-Bye Bye my Raspberry Pi... I hope Nikita Bezgin will be po kayfoo with it!
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%203B+-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
-![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 -->
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2013%202018-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
-<!-- IT'S TIME TO BUILD RASPBERRY PI CLUSTER!!!!! -->
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%203B+-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
+![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 
 ## And some fun stuff with random meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width=500px>
