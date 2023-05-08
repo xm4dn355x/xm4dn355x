@@ -38,7 +38,6 @@ What does this mean? About nothing))))
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&labelColor=black&logo=obsidian&logoColor=white)
 <!--
 ![Openstack](https://img.shields.io/badge/Openstack-%23f01742.svg?&style=for-the-badge&labelColor=black&logo=openstack&logoColor=white)
-![Cpp language](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&labelColor=black&logo=c%2B%2B&ogoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&labelColor=black&logo=unreal%20engine&logoColor=white)
@@ -47,13 +46,7 @@ What does this mean? About nothing))))
 -->
 
 ## About me
-- 🔭 I’m currently working on: adjusting on a new job
-- 🌱 I’m currently learning: FastAPI
-- 👯 I’m looking to collaborate on: Yamal.dev
-- 🤔 I’m looking for help with: async Python
-- 💬 Ask me about: Python TamTam chatbot API))))
-- 📫 How to reach me: my social links are three paragraphs below
-- ⚡ Fun fact: Python is awesome!
+I am lead of backend development in Yamal Media
 
 ## Current target
 - Beat my previous commit streak record of 40 days everyday coding before the end of 2021!✊
@@ -68,7 +61,7 @@ What does this mean? About nothing))))
 
 ## Social
 [![GitHub](https://img.shields.io/badge/Yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/yamal-dev)
-[![Yamal.dev]()](https://yamal.dev)
+[![Yamal.dev](https://img.shields.io/badge/yamal.dev-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://yamal.dev)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&labelColor=black&logo=instagram&logoColor=white)](https://instagram.com/xm4dn355x)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/xM4DN355x)
 [![Telegram Channel](https://img.shields.io/badge/telegram%20memes%20channel-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/greta_tuborg)
@@ -81,23 +74,13 @@ What does this mean? About nothing))))
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&labelColor=black&logo=discord&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&labelColor=black&logo=twitter&logoColor=white)](https://twitter.com/m4dn355)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&labelColor=black&logo=linkedin&logoColor=white)]()
--->
-<!-- 
+[![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&labelColor=black&logo=spotify&logoColor=white)](https://open.spotify.com/user/wi26c39cqtcidjezk59rzwws9?si=TjbWce9QQDqZgYHQODthAg)
+
 [![Codewars](https://www.codewars.com/users/xm4dn355x/badges/large)](https://www.codewars.com/users/xm4dn355x/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)]()
-[![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&labelColor=black&logo=spotify&logoColor=white)](https://open.spotify.com/user/wi26c39cqtcidjezk59rzwws9?si=TjbWce9QQDqZgYHQODthAg)
  -->
 
 ## My working setup
-<!--
-Bye Bye my old PC's... 
-![Ryzen 2700X](https://img.shields.io/badge/amd-Ryzen%207%202700X-%23ED1C24.svg?&style=for-the-badge&labelColor=black&logo=amd&logoColor=white)
-![RAM](https://img.shields.io/badge/ram-32%20GB-%2376B900.svg?&style=for-the-badge&labelColor=black)
-![RTX 3070](https://img.shields.io/badge/nvidia-rtx3070-%2376B900.svg?&style=for-the-badge&labelColor=black&logo=nvidia&logoColor=white)
-![Win10 Pro](https://img.shields.io/badge/windows-10%20pro-%230078D6.svg?&style=for-the-badge&labelColor=black&logo=windows&logoColor=white)
-
-![Core i7](https://img.shields.io/badge/intel-core%20i7%202600-%230071C5.svg?&style=for-the-badge&labelColor=black&logo=intel&logoColor=white)
--->
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)
@@ -108,7 +91,3 @@ Bye Bye my old PC's...
 
 ## And some fun stuff with random meme
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up." width=500px>
-
-<!--
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xm4dn355x/&title=Profile%20Views)
--->
