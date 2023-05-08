@@ -54,6 +54,7 @@ What does this mean? About nothing))))
 
 ## Social
 [![GitHub](https://img.shields.io/badge/Yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/yamal-dev)
+[![Yamal.dev]()](https://yamal.dev)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&labelColor=black&logo=instagram&logoColor=white)](https://instagram.com/xm4dn355x)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/joinchat/AAAAAFSHTSYSG7nkTYxTdg)
 [![VK](https://img.shields.io/badge/vk-%230077B5.svg?&style=for-the-badge&labelColor=black&logo=vk&logoColor=white)](https://vk.com/xm4dn3ssx)
