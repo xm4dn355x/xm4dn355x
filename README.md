@@ -46,7 +46,6 @@ What does this mean? About nothing))))
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![HashiCorp](https://img.shields.io/badge/hashicorp-000000.svg?style=for-the-badge&labelColor=black&logo=hashicorp&logoColor=#000000)
 ![Hashicorp Vault](https://img.shields.io/badge/vault-FFEC6E.svg?style=for-the-badge&labelColor=black&logo=vault&logoColor=#FFEC6E)
-![hcl](https://img.shields.io/badge/hcl-006BB6.svg?style=for-the-badge&labelColor=black&logo=hcl&logoColor=#006BB6)
 ![.env](https://img.shields.io/badge/.env-ECD53F.svg?&style=for-the-badge&labelColor=black&logo=.env&logoColor=#ECD53F)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
 ![Cookiecutter](https://img.shields.io/badge/cookiecutter-D4AA00.svg?style=for-the-badge&labelColor=black&logo=cookiecutter&logoColor=#D4AA00)
@@ -92,6 +91,8 @@ What does this mean? About nothing))))
 
 ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&labelColor=black&logo=grafana&logoColor=#F46800)
 ![Graylog](https://img.shields.io/badge/graylog-FF3633.svg?style=for-the-badge&labelColor=black&logo=graylog&logoColor=#FF3633)
+
+![hcl](https://img.shields.io/badge/hcl-006BB6.svg?style=for-the-badge&labelColor=black&logo=hcl&logoColor=#006BB6)
 -->
 
 ### Additional skills
