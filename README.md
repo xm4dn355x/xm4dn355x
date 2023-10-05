@@ -173,11 +173,11 @@ What does this mean? About nothing))))
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&labelColor=black&logo=confluence&logoColor=white)
 ![redmine](https://img.shields.io/badge/redmine-B32024.svg?style=for-the-badge&labelColor=black&logo=redmine&logoColor=#B32024)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&labelColor=black&logo=slack&logoColor=#4A154B)
-![GitBook](https://img.shields.io/badge/gitbook-3884FF.svg?style=for-the-badge&labelColor=black&logo=gitbook&logoColor=#3884FF)
 ![miro](https://img.shields.io/badge/miro-FFFC00.svg?style=for-the-badge&labelColor=black&logo=miro&logoColor=#FFFC00)
 ![diagrams.net](https://img.shields.io/badge/diagrams%20net-F08705.svg?style=for-the-badge&labelColor=black&logo=diagramsdotnet&logoColor=#F08705)
 <!--
 ![Asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&labelColor=black&logo=asana&logoColor=#F06A6A)
+![GitBook](https://img.shields.io/badge/gitbook-3884FF.svg?style=for-the-badge&labelColor=black&logo=gitbook&logoColor=#3884FF)
 -->
 
 ### Tools
