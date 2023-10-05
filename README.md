@@ -105,7 +105,6 @@ What does this mean? About nothing))))
 ![tqdm](https://img.shields.io/badge/tqdm-FFC107.svg?style=for-the-badge&labelColor=black&logo=tqdm&logoColor=#FFC107)
 ![OpenStreetMap](https://img.shields.io/badge/openstreetmap-7EBC6F.svg?style=for-the-badge&labelColor=black&logo=openstreetmap&logoColor=#7EBC6F)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&labelColor=black&logo=linux&logoColor=#FCC624)
-![Dropbox](https://img.shields.io/badge/dropbox-0061FF.svg?style=for-the-badge&labelColor=black&logo=dropbox&logoColor=#0061FF)
 ![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF.svg?style=for-the-badge&labelColor=black&logo=digitalocean&logoColor=#0080FF)
 ![MailChimp](https://img.shields.io/badge/mailchimp-FFE01B.svg?style=for-the-badge&labelColor=black&logo=mailchimp&logoColor=#FFE01B)
 ![Let's Encrypt](https://img.shields.io/badge/lets%20encrypt-003A70.svg?style=for-the-badge&labelColor=black&logo=letsencrypt&logoColor=#003A70)
@@ -295,4 +294,5 @@ Misc
 ![Awesome Lists](https://img.shields.io/badge/Awesome%20Some%20Repo-FC60A8.svg?style=for-the-badge&labelColor=black&logo=awesomelists&logoColor=#FC60A8)
 ![Bio Link](https://img.shields.io/badge/Bio%20Link-000000.svg?style=for-the-badge&labelColor=black&logo=biolink&logoColor=#000000)
 ![Nike](https://img.shields.io/badge/nike-white.svg?style=for-the-badge&labelColor=black&logo=nike&logoColor=white)
+![Dropbox](https://img.shields.io/badge/dropbox-0061FF.svg?style=for-the-badge&labelColor=black&logo=dropbox&logoColor=#0061FF)
 -->
