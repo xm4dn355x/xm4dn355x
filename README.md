@@ -50,6 +50,8 @@ What does this mean? About nothing))))
 ![Cookiecutter](https://img.shields.io/badge/cookiecutter-D4AA00.svg?style=for-the-badge&labelColor=black&logo=cookiecutter&logoColor=#D4AA00)
 ![Jinja2](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&labelColor=black&logo=jinja&logoColor=white)
 <!--
+![moonrepo](https://img.shields.io/badge/moonrepo-6F53F3.svg?style=for-the-badge&labelColor=black&logo=moonrepo&logoColor=#6F53F3)
+![PDM](https://img.shields.io/badge/pdm-AC75D7.svg?style=for-the-badge&labelColor=black&logo=pdm&logoColor=#AC75D7)
 
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&labelColor=black&logo=numpy&logoColor=#013243)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&labelColor=black&logo=opencv&logoColor=#5C3EE8)
@@ -97,20 +99,24 @@ What does this mean? About nothing))))
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=#7952B3)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=#CB3837)
 ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&labelColor=black&logo=grafana&logoColor=#F46800)
+![Sentry](https://img.shields.io/badge/sentry-362D59.svg?style=for-the-badge&labelColor=black&logo=sentry&logoColor=#362D59)
 ![Google Lighthouse](https://img.shields.io/badge/lighthouse-F44B21.svg?style=for-the-badge&labelColor=black&logo=lighthouse&logoColor=#F44B21)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=#F37626)
 ![tqdm](https://img.shields.io/badge/tqdm-FFC107.svg?style=for-the-badge&labelColor=black&logo=tqdm&logoColor=#FFC107)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64.svg?style=for-the-badge&labelColor=black&logo=ruff&logoColor=#D7FF64)
 ![OpenStreetMap](https://img.shields.io/badge/openstreetmap-7EBC6F.svg?style=for-the-badge&labelColor=black&logo=openstreetmap&logoColor=#7EBC6F)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&labelColor=black&logo=linux&logoColor=#FCC624)
 ![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF.svg?style=for-the-badge&labelColor=black&logo=digitalocean&logoColor=#0080FF)
 ![MailChimp](https://img.shields.io/badge/mailchimp-FFE01B.svg?style=for-the-badge&labelColor=black&logo=mailchimp&logoColor=#FFE01B)
 ![Let's Encrypt](https://img.shields.io/badge/lets%20encrypt-003A70.svg?style=for-the-badge&labelColor=black&logo=letsencrypt&logoColor=#003A70)
 ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&labelColor=black&logo=nginx&logoColor=white)
+![traefik](https://img.shields.io/badge/traefik-24A1C1.svg?style=for-the-badge&labelColor=black&logo=traefikproxy&logoColor=#24A1C1)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&labelColor=black&logo=apache&logoColor=#D22128)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&labelColor=black&logo=wireguard&logoColor=white)
 ![BitWarden](https://img.shields.io/badge/bitwarden-175DDC.svg?style=for-the-badge&labelColor=black&logo=bitwarden&logoColor=#175DDC)
 ![vaultwarden](https://img.shields.io/badge/vaultwarden-black.svg?style=for-the-badge&labelColor=black&logo=vaultwarden&logoColor=white)
 ![QT](https://img.shields.io/badge/qt-41CD52.svg?style=for-the-badge&labelColor=black&logo=qt&logoColor=#41CD52)
+![Helm](https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&labelColor=black&logo=helm&logoColor=#0F1689)
 ![toml](https://img.shields.io/badge/toml-9C4121.svg?style=for-the-badge&labelColor=black&logo=toml&logoColor=#9C4121)
 ![UML](https://img.shields.io/badge/uml-FABD14.svg?style=for-the-badge&labelColor=black&logo=uml&logoColor=#FABD14)
 ![YAML](https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&labelColor=black&logo=yaml&logoColor=#CB171E)
@@ -148,24 +154,23 @@ What does this mean? About nothing))))
 ![ingress](https://img.shields.io/badge/ingress-783CBD.svg?style=for-the-badge&labelColor=black&logo=ingress&logoColor=#783CBD)
 ![portainer](https://img.shields.io/badge/portainer-13BEF9.svg?style=for-the-badge&labelColor=black&logo=portainer&logoColor=#13BEF9)
 ![rancher](https://img.shields.io/badge/rancher-0075A8.svg?style=for-the-badge&labelColor=black&logo=rancher&logoColor=#0075A8)
-![Helm](https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&labelColor=black&logo=helm&logoColor=#0F1689)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&labelColor=black&logo=cloudflare&logoColor=#F38020)
 
 ![heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&labelColor=black&logo=heroku&logoColor=#430098)
 
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808.svg?style=for-the-badge&labelColor=black&logo=ffmpeg&logoColor=#007808)
 
-![Sentry](https://img.shields.io/badge/sentry-362D59.svg?style=for-the-badge&labelColor=black&logo=sentry&logoColor=#362D59)
 ![Uptime Kuma](https://img.shields.io/badge/uptime%20kuma-5CDD8B.svg?style=for-the-badge&labelColor=black&logo=uptimekuma&logoColor=#5CDD8B)
-![traefik](https://img.shields.io/badge/traefik-24A1C1.svg?style=for-the-badge&labelColor=black&logo=traefikproxy&logoColor=#24A1C1)
 
 ![nextcloud](https://img.shields.io/badge/nextcloud-0082C9.svg?style=for-the-badge&labelColor=black&logo=nextcloud&logoColor=#0082C9)
 ![mikrotik](https://img.shields.io/badge/mikrotik-293239.svg?style=for-the-badge&labelColor=black&logo=mikrotik&logoColor=#293239)
 
 ![latex](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&labelColor=black&logo=latex&logoColor=#008080)
+![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&labelColor=black&logo=mermaid&logoColor=#FF3670)
 
 ![Font Awesome](https://img.shields.io/badge/font%20awesome-528DD7.svg?style=for-the-badge&labelColor=black&logo=fontawesome&logoColor=#528DD7)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=#F24E1E)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&labelColor=black&logo=n8n&logoColor=#EA4B71)
 -->
 
 ### Projects, Teams & Docs
@@ -176,9 +181,10 @@ What does this mean? About nothing))))
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&labelColor=black&logo=slack&logoColor=#4A154B)
 ![miro](https://img.shields.io/badge/miro-FFFC00.svg?style=for-the-badge&labelColor=black&logo=miro&logoColor=#FFFC00)
 ![diagrams.net](https://img.shields.io/badge/diagrams%2enet-F08705.svg?style=for-the-badge&labelColor=black&logo=diagramsdotnet&logoColor=#F08705)
+![ExcaliDraw](https://img.shields.io/badge/excalidraw-6965DB.svg?style=for-the-badge&labelColor=black&logo=excalidraw&logoColor=#6965DB)
 <!--
+![linear](https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge&labelColor=black&logo=linear&logoColor=#5E6AD2)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&labelColor=black&logo=asana&logoColor=#F06A6A)
-![GitBook](https://img.shields.io/badge/gitbook-3884FF.svg?style=for-the-badge&labelColor=black&logo=gitbook&logoColor=#3884FF)
 -->
 
 ### Tools
@@ -195,6 +201,7 @@ What does this mean? About nothing))))
 ![Microsoft Office Excel](https://img.shields.io/badge/excel-217346.svg?style=for-the-badge&labelColor=black&logo=microsoftexcel&logoColor=#217346)
 ![Microsoft Office Powerpoint](https://img.shields.io/badge/powerpoint-B7472A.svg?style=for-the-badge&labelColor=black&logo=microsoftpowerpoint&logoColor=#B7472A)
 ![Microsoft Office Visio](https://img.shields.io/badge/visio-3955A3.svg?style=for-the-badge&labelColor=black&logo=microsoftvisio&logoColor=#3955A3)
+![OLLAMA](https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&labelColor=black&logo=ollama&logoColor=#000000)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C.svg?style=for-the-badge&labelColor=black&logo=dependabot&logoColor=#025E8C)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=#183A61)
 
@@ -202,6 +209,7 @@ What does this mean? About nothing))))
 ![C language](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&labelColor=black&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20resolve-233A51?style=for-the-badge&labelColor=black&logo=davinciresolve&logoColor=#233A51)
 ![OBS Studio](https://img.shields.io/badge/obs%20studio-302E31.svg?style=for-the-badge&labelColor=black&logo=obsstudio&logoColor=#302E31)
 <!--
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=#FF9A00)
@@ -212,7 +220,7 @@ What does this mean? About nothing))))
 -->
 
 ## About me
-I'm co-founder of [Yamal.dev](https://yamal.dev) and head of backend develompend in [Yamal-Media](https://yamal-media.ru/)
+I'm co-founder of [Yamal.dev](https://yamal.dev) and Python dev in [Jobski](https://jobski.ru)
 
 ## Current target
 - Build my own cluster (in progress).
@@ -236,6 +244,7 @@ I'm co-founder of [Yamal.dev](https://yamal.dev) and head of backend develompend
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&labelColor=black&logo=youtube&logoColor=white)](https://www.youtube.com/@tech_shirt)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&labelColor=black&logo=twitch&logoColor=white)](https://www.twitch.tv/xxm4dn355xx/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&labelColor=black&logo=steam&logoColor=white)](https://steamcommunity.com/id/xM4DN355x)
+[![Duolingo](https://img.shields.io/badge/duolingo-58CC02.svg?style=for-the-badge&labelColor=black&logo=duolingo&logoColor=#58CC02)](https://www.duolingo.com/profile/xm4dn355x)
 <!--
 [![FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&labelColor=black&logo=facebook&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&labelColor=black&logo=twitter&logoColor=white)](https://twitter.com/m4dn355)
@@ -247,7 +256,6 @@ I'm co-founder of [Yamal.dev](https://yamal.dev) and head of backend develompend
 [![dev.to](https://img.shields.io/badge/dev%20to-0A0A0A.svg?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=#0A0A0A)]()
 [![Habr](https://img.shields.io/badge/habr-65A3BE.svg?style=for-the-badge&labelColor=black&logo=habr&logoColor=#65A3BE)]()
 [![Medium](https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&labelColor=black&logo=medium&logoColor=#000000)]()
-[![Duolingo](https://img.shields.io/badge/duolingo-58CC02.svg?style=for-the-badge&labelColor=black&logo=duolingo&logoColor=#58CC02)]()
 [![thingiverse](https://img.shields.io/badge/thingiverse-248BFB.svg?style=for-the-badge&labelColor=black&logo=thingiverse&logoColor=#248BFB)]()
 [![Upwork](https://img.shields.io/badge/upwork-6FDA44.svg?style=for-the-badge&labelColor=black&logo=upwork&logoColor=#6FDA44)]()
 
@@ -263,18 +271,22 @@ I'm co-founder of [Yamal.dev](https://yamal.dev) and head of backend develompend
 -->
 
 ## My working setup
+![MacBook](https://img.shields.io/badge/Hackintosh-iMac%20pro%20-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
-![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
+![JetBrains PyCharm](https://img.shields.io/badge/PyCharm%20Professional-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
 ![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)
 <!--
 ![JetBrains DataGrip](https://img.shields.io/badge/DataGrip-black.svg?style=for-the-badge&labelColor=black&logo=datagrip&logoColor=white)
 ![JetBrains Webstorm](https://img.shields.io/badge/jetbrains%20webstorm-black.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
+jetbrains #000000 (for All Products Pack)
 -->
 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
 ![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 ![Debian server](https://img.shields.io/badge/Debian%20server-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
+<!--
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
+-->
 
 <!--
 ## Donate please
@@ -287,6 +299,8 @@ I'm co-founder of [Yamal.dev](https://yamal.dev) and head of backend develompend
 
 <!--
 Misc
+![hypothesis](https://img.shields.io/badge/hypothesis-BD1C2B.svg?style=for-the-badge&labelColor=black&logo=hypothesis&logoColor=#BD1C2B)
+![huggingface](https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=#FFD21E)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android&logoColor=#3DDC84)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B.svg?style=for-the-badge&labelColor=black&logo=anydesk&logoColor=#EF443B)
 ![Awesome Lists](https://img.shields.io/badge/Awesome%20Some%20Repo-FC60A8.svg?style=for-the-badge&labelColor=black&logo=awesomelists&logoColor=#FC60A8)
