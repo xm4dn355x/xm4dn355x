@@ -14,6 +14,7 @@ What does this mean? About nothing))))
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54)
 ![pypi](https://img.shields.io/badge/pypi-3775A9.svg?style=for-the-badge&labelColor=black&logo=pypi&logoColor=#3775A9)
 ![poetry](https://img.shields.io/badge/poetry-60A5FA.svg?style=for-the-badge&labelColor=black&logo=poetry&logoColor=#60A5FA)
+![PDM](https://img.shields.io/badge/pdm-AC75D7.svg?style=for-the-badge&labelColor=black&logo=pdm&logoColor=#AC75D7)
 ![Pydantic v1/v2](https://img.shields.io/badge/pydantic%20v1%2Fv2-E92063.svg?style=for-the-badge&labelColor=black&logo=pydantic&logoColor=#E92063)
 ![FastAPI](https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&labelColor=black&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -27,6 +28,7 @@ What does this mean? About nothing))))
 ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&labelColor=black&logo=selenium&logoColor=#43B02A)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/docker%20swarm%20mode-%23483699.svg?&style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&labelColor=black&logo=apachekafka&logoColor=#231F20)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&labelColor=black&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-37814A.svg?style=for-the-badge&labelColor=black&logo=celery&logoColor=#37814A)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
@@ -51,7 +53,6 @@ What does this mean? About nothing))))
 ![Jinja2](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&labelColor=black&logo=jinja&logoColor=white)
 <!--
 ![moonrepo](https://img.shields.io/badge/moonrepo-6F53F3.svg?style=for-the-badge&labelColor=black&logo=moonrepo&logoColor=#6F53F3)
-![PDM](https://img.shields.io/badge/pdm-AC75D7.svg?style=for-the-badge&labelColor=black&logo=pdm&logoColor=#AC75D7)
 
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&labelColor=black&logo=numpy&logoColor=#013243)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&labelColor=black&logo=opencv&logoColor=#5C3EE8)
@@ -81,7 +82,6 @@ What does this mean? About nothing))))
 
 ![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&labelColor=black&logo=graphql&logoColor=#E10098)
 ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1.svg?style=for-the-badge&labelColor=black&logo=apachecassandra&logoColor=#1287B1)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&labelColor=black&logo=apachekafka&logoColor=#231F20)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&labelColor=black&logo=apachehadoop&logoColor=#66CCFF)
 ![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC01.svg?style=for-the-badge&labelColor=black&logo=clickhouse&logoColor=#FFCC01)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&labelColor=black&logo=firebase&logoColor=#FFCA28)
@@ -203,6 +203,7 @@ What does this mean? About nothing))))
 ![Microsoft Office Visio](https://img.shields.io/badge/visio-3955A3.svg?style=for-the-badge&labelColor=black&logo=microsoftvisio&logoColor=#3955A3)
 ![OLLAMA](https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&labelColor=black&logo=ollama&logoColor=#000000)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C.svg?style=for-the-badge&labelColor=black&logo=dependabot&logoColor=#025E8C)
+![huggingface](https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=#FFD21E)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=#183A61)
 
 ### Hobby skills
@@ -221,6 +222,9 @@ What does this mean? About nothing))))
 
 ## About me
 I'm co-founder of [Yamal.dev](https://yamal.dev) and Python dev in [Jobski](https://jobski.ru)
+<!--
+TODO: ДОБАВИТЬ СЮДА m4dn355.dev когда будет готово! [m4dn355.dev](https://m4dn355.dev) и Проект Синяя Изолента [Бот Синяя Изолента](https://t.me/blue_electric_tape_bot)
+-->
 
 ## Current target
 - Build my own cluster (in progress).
@@ -236,6 +240,7 @@ I'm co-founder of [Yamal.dev](https://yamal.dev) and Python dev in [Jobski](http
 ## Social
 [![GitHub](https://img.shields.io/badge/Yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/yamal-dev)
 [![Yamal.dev](https://img.shields.io/badge/yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=GoogleChrome&logoColor=white)](https://yamal.dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&labelColor=black&logo=linkedin&logoColor=white)](www.linkedin.com/in/m4dn355)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&labelColor=black&logo=instagram&logoColor=white)](https://instagram.com/xm4dn355x)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/xM4DN355x)
 [![Telegram Channel](https://img.shields.io/badge/telegram%20memes%20channel-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/greta_tuborg)
@@ -246,9 +251,9 @@ I'm co-founder of [Yamal.dev](https://yamal.dev) and Python dev in [Jobski](http
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&labelColor=black&logo=steam&logoColor=white)](https://steamcommunity.com/id/xM4DN355x)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02.svg?style=for-the-badge&labelColor=black&logo=duolingo&logoColor=#58CC02)](https://www.duolingo.com/profile/xm4dn355x)
 <!--
+TODO: Как будет готово добавить блог m4dn355.dev
 [![FaceBook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&labelColor=black&logo=facebook&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&labelColor=black&logo=twitter&logoColor=white)](https://twitter.com/m4dn355)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&labelColor=black&logo=linkedin&logoColor=white)]()
 [![icq](https://img.shields.io/badge/icq-24FF00.svg?style=for-the-badge&labelColor=black&logo=icq&logoColor=#24FF00)]()
 [![Spotify](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&labelColor=black&logo=spotify&logoColor=white)](https://open.spotify.com/user/wi26c39cqtcidjezk59rzwws9?si=TjbWce9QQDqZgYHQODthAg)
 [![CodePen](https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&labelColor=black&logo=codepen&logoColor=#000000)]()
@@ -300,7 +305,6 @@ jetbrains #000000 (for All Products Pack)
 <!--
 Misc
 ![hypothesis](https://img.shields.io/badge/hypothesis-BD1C2B.svg?style=for-the-badge&labelColor=black&logo=hypothesis&logoColor=#BD1C2B)
-![huggingface](https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=#FFD21E)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android&logoColor=#3DDC84)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B.svg?style=for-the-badge&labelColor=black&logo=anydesk&logoColor=#EF443B)
 ![Awesome Lists](https://img.shields.io/badge/Awesome%20Some%20Repo-FC60A8.svg?style=for-the-badge&labelColor=black&logo=awesomelists&logoColor=#FC60A8)
