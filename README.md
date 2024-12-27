@@ -52,8 +52,6 @@ What does this mean? About nothing))))
 ![Cookiecutter](https://img.shields.io/badge/cookiecutter-D4AA00.svg?style=for-the-badge&labelColor=black&logo=cookiecutter&logoColor=#D4AA00)
 ![Jinja2](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&labelColor=black&logo=jinja&logoColor=white)
 <!--
-![moonrepo](https://img.shields.io/badge/moonrepo-6F53F3.svg?style=for-the-badge&labelColor=black&logo=moonrepo&logoColor=#6F53F3)
-
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&labelColor=black&logo=numpy&logoColor=#013243)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&labelColor=black&logo=opencv&logoColor=#5C3EE8)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&labelColor=black&logo=pandas&logoColor=#150458)
@@ -276,7 +274,7 @@ TODO: Как будет готово добавить блог m4dn355.dev
 -->
 
 ## My working setup
-![MacBook](https://img.shields.io/badge/Hackintosh-iMac%20pro%20-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
+![Hackintosh](https://img.shields.io/badge/Hackintosh-iMac%20pro%20-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![JetBrains PyCharm](https://img.shields.io/badge/PyCharm%20Professional-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
 ![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=white)
