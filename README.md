@@ -235,6 +235,8 @@ TODO: ДОБАВИТЬ СЮДА m4dn355.dev когда будет готово! 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4dn355x&theme=tokyonight&hide_langs_below=1&layout=compact" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app/?user=xm4dn355x&theme=tokyonight-duo)](https://git.io/streak-stats)
+
 ## Social
 [![GitHub](https://img.shields.io/badge/Yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/yamal-dev)
 [![Yamal.dev](https://img.shields.io/badge/yamal.dev-%2312100E.svg?&style=for-the-badge&labelColor=black&logo=GoogleChrome&logoColor=white)](https://yamal.dev)
