@@ -280,8 +280,10 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ## My working setup
 ![Ryzen](https://img.shields.io/badge/AMD%20Ryzen%207%202700X-Windows%2011-%23999999.svg?&style=for-the-badge&labelColor=ED1C24&logo=amd&logoColor=white)
 ![Nvidia](https://img.shields.io/badge/Nvidia-RTX%203070%208Gb-%23999999.svg?&style=for-the-badge&labelColor=green&logo=nvidia&logoColor=white)
+
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-iMac%20pro%20-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![RX580](https://img.shields.io/badge/Sapphire%20Nitro-RX580%208Gb-%23ED1C24.svg?&style=for-the-badge&labelColor=blue&logo=amd&logoColor=white)
+
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
 ![JetBrains AllProductsPack](https://img.shields.io/badge/All%20Products%20Pack-143?style=for-the-badge&logo=jetbrains&logoColor=white&color=black&labelColor=black)
