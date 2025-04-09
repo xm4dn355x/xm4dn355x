@@ -115,6 +115,7 @@ What does this mean? About nothing))))
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&labelColor=black&logo=wireguard&logoColor=white)
 ![BitWarden](https://img.shields.io/badge/bitwarden-175DDC.svg?style=for-the-badge&labelColor=black&logo=bitwarden&logoColor=#175DDC)
 ![vaultwarden](https://img.shields.io/badge/vaultwarden-black.svg?style=for-the-badge&labelColor=black&logo=vaultwarden&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&labelColor=black&logo=n8n&logoColor=#EA4B71)
 ![QT](https://img.shields.io/badge/qt-41CD52.svg?style=for-the-badge&labelColor=black&logo=qt&logoColor=#41CD52)
 ![Helm](https://img.shields.io/badge/helm-0F1689.svg?style=for-the-badge&labelColor=black&logo=helm&logoColor=#0F1689)
 ![toml](https://img.shields.io/badge/toml-9C4121.svg?style=for-the-badge&labelColor=black&logo=toml&logoColor=#9C4121)
@@ -170,7 +171,6 @@ What does this mean? About nothing))))
 
 ![Font Awesome](https://img.shields.io/badge/font%20awesome-528DD7.svg?style=for-the-badge&labelColor=black&logo=fontawesome&logoColor=#528DD7)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=#F24E1E)
-![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&labelColor=black&logo=n8n&logoColor=#EA4B71)
 -->
 
 ### Projects, Teams & Docs
@@ -280,17 +280,18 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ## My working setup
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-iMac%20pro%20-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
+![JetBrains AllProductsPack](https://img.shields.io/badge/All%20Products%20Pack-143?style=for-the-badge&logo=jetbrains&logoColor=white&color=black&labelColor=black)
 ![JetBrains PyCharm](https://img.shields.io/badge/PyCharm%20Professional-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
-![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)
-<!--
 ![JetBrains DataGrip](https://img.shields.io/badge/DataGrip-black.svg?style=for-the-badge&labelColor=black&logo=datagrip&logoColor=white)
+![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=blue)
+<!--
 ![JetBrains Webstorm](https://img.shields.io/badge/jetbrains%20webstorm-black.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
-jetbrains #000000 (for All Products Pack)
 -->
 
-![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
-![Debian server](https://img.shields.io/badge/Debian%20server-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
+![Ubuntu server NL](https://img.shields.io/badge/ubuntu%20server%20NL-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
+![Ubuntu server SW](https://img.shields.io/badge/ubuntu%20server%20SW-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
+![Debian server RU](https://img.shields.io/badge/Debian%20server%20RU-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
 <!--
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
 -->
