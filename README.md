@@ -212,6 +212,7 @@ What does this mean? About nothing))))
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20resolve-233A51?style=for-the-badge&labelColor=black&logo=davinciresolve&logoColor=#233A51)
 ![OBS Studio](https://img.shields.io/badge/obs%20studio-302E31.svg?style=for-the-badge&labelColor=black&logo=obsstudio&logoColor=#302E31)
+![SketchUp](https://img.shields.io/badge/sketchup-white.svg?style=for-the-badge&labelColor=black&logo=sketchup&logoColor=18BFFF)
 <!--
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=#FF9A00)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=#31A8FF)
