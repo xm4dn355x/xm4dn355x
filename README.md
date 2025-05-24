@@ -3,8 +3,7 @@
 
 ### That's how many people are interested in my profile
 ![Visitor Count](https://profile-counter.glitch.me/xm4dn355x/count.svg)
-
-What does this mean? About nothing))))
+What does this mean? About nothing 😊
 
 ## My Techs & Tools
 ### Main skills
@@ -176,6 +175,7 @@ What does this mean? About nothing))))
 ### Projects, Teams & Docs
 ![trello](https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&labelColor=black&logo=trello&logoColor=#0052CC)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&labelColor=black&logo=jira&logoColor=white)
+![linear](https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge&labelColor=black&logo=linear&logoColor=#5E6AD2)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&labelColor=black&logo=confluence&logoColor=white)
 ![redmine](https://img.shields.io/badge/redmine-B32024.svg?style=for-the-badge&labelColor=black&logo=redmine&logoColor=#B32024)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&labelColor=black&logo=slack&logoColor=#4A154B)
@@ -183,7 +183,6 @@ What does this mean? About nothing))))
 ![diagrams.net](https://img.shields.io/badge/diagrams%2enet-F08705.svg?style=for-the-badge&labelColor=black&logo=diagramsdotnet&logoColor=#F08705)
 ![ExcaliDraw](https://img.shields.io/badge/excalidraw-6965DB.svg?style=for-the-badge&labelColor=black&logo=excalidraw&logoColor=#6965DB)
 <!--
-![linear](https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge&labelColor=black&logo=linear&logoColor=#5E6AD2)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&labelColor=black&logo=asana&logoColor=#F06A6A)
 -->
 
@@ -222,7 +221,7 @@ What does this mean? About nothing))))
 -->
 
 ## About me
-I'm co-founder of [Yamal.dev](https://yamal.dev) and Python dev in [Jobski](https://jobski.ru)
+I'm Python developer and co-founder of [Yamal.dev](https://yamal.dev).
 <!--
 TODO: ДОБАВИТЬ СЮДА m4dn355.dev когда будет готово! [m4dn355.dev](https://m4dn355.dev) и Проект Синяя Изолента [Бот Синяя Изолента](https://t.me/blue_electric_tape_bot)
 -->
@@ -288,10 +287,10 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
 ![JetBrains AllProductsPack](https://img.shields.io/badge/All%20Products%20Pack-143?style=for-the-badge&logo=jetbrains&logoColor=white&color=black&labelColor=black)
-![JetBrains PyCharm](https://img.shields.io/badge/PyCharm%20Professional-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
-![JetBrains DataGrip](https://img.shields.io/badge/DataGrip-black.svg?style=for-the-badge&labelColor=black&logo=datagrip&logoColor=white)
-![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=blue)
+![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
+![JetBrains DataGrip](https://img.shields.io/badge/DataGrip-black.svg?style=for-the-badge&labelColor=black&color=purple&logo=datagrip&logoColor=white)
+![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&color=blue&logo=jetbrains&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=blue)
 <!--
 ![JetBrains Webstorm](https://img.shields.io/badge/jetbrains%20webstorm-black.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
 -->
