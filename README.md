@@ -290,7 +290,7 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ![JetBrains AllProductsPack](https://img.shields.io/badge/All%20Products%20Pack-143?style=for-the-badge&logo=jetbrains&logoColor=white&color=black&labelColor=black)
 ![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
 ![JetBrains DataGrip](https://img.shields.io/badge/DataGrip-black.svg?style=for-the-badge&labelColor=black&color=purple&logo=datagrip&logoColor=white)
-![JetBrains Webstorm](https://img.shields.io/badge/jetbrains%20webstorm-black.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
+![JetBrains Webstorm](https://img.shields.io/badge/jetbrains%20webstorm-538DD7.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
 ![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&color=blue&logo=jetbrains&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=blue)
 
