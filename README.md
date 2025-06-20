@@ -3,7 +3,7 @@
 
 ### That's how many people are interested in my profile
 ![Visitor Count](https://profile-counter.glitch.me/xm4dn355x/count.svg)
-What does this mean? About nothing 😊
+Just a cool counter 😊
 
 ## My Techs & Tools
 ### Main skills
