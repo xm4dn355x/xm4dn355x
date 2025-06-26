@@ -1,7 +1,7 @@
 ![](/reheader.glitch.me.png)
 # I am a Python backend developer
 
-### That's how many people are interested in my profile
+### Profile visits
 ![Visitor Count](https://profile-counter.glitch.me/xm4dn355x/count.svg)
 Just a cool counter 😊
 
@@ -190,6 +190,7 @@ Just a cool counter 😊
 ![warp](https://img.shields.io/badge/warp-01A4FF.svg?style=for-the-badge&labelColor=black&logo=warp&logoColor=#01A4FF)
 ![curl](https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&labelColor=black&logo=curl&logoColor=#073551)
 ![htop](https://img.shields.io/badge/htop-009020.svg?style=for-the-badge&labelColor=black&logo=htop&logoColor=#009020)
+![btop](https://img.shields.io/badge/btop-009020.svg?style=for-the-badge&labelColor=black&logo=htop&logoColor=#009020)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F.svg?style=for-the-badge&labelColor=black&logo=tmux&logoColor=#1BB91F)
 ![Nginx Proxy Manager](https://img.shields.io/badge/nginx%20proxy%20manager-F15833.svg?style=for-the-badge&labelColor=black&logo=nginxproxymanager&logoColor=#F15833)
 ![homebrew](https://img.shields.io/badge/homebrew-FBB040.svg?style=for-the-badge&labelColor=black&logo=homebrew&logoColor=#FBB040)
@@ -228,7 +229,7 @@ TODO: ДОБАВИТЬ СЮДА m4dn355.dev когда будет готово! 
 -->
 
 ## Current target
-- Build my own cluster (in progress).
+- Build my own Kubernetes cluster (in progress).
 
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -281,6 +282,7 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ## My working setup
 ![Ryzen](https://img.shields.io/badge/AMD%20Ryzen%207%202700X-Windows%2011-%23999999.svg?&style=for-the-badge&labelColor=ED1C24&logo=amd&logoColor=white)
 ![Nvidia](https://img.shields.io/badge/Nvidia-RTX%203070%208Gb-%23999999.svg?&style=for-the-badge&labelColor=green&logo=nvidia&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Nvidia-Tesla%20K80%2024Gb-%23999999.svg?&style=for-the-badge&labelColor=green&logo=nvidia&logoColor=white)
 
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-iMac%20pro%20-%23999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![RX580](https://img.shields.io/badge/Sapphire%20Nitro-RX580%208Gb-%23ED1C24.svg?&style=for-the-badge&labelColor=blue&logo=amd&logoColor=white)
