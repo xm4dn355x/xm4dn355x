@@ -10,7 +10,6 @@ Just a cool counter 😊
 ![Git](https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ![Conventional Commits](https://img.shields.io/badge/conventional%20commits-FE5196.svg?style=for-the-badge&labelColor=black&logo=conventionalcommits&logoColor=FE5196)
 ![precommit](https://img.shields.io/badge/precommit-FAB040.svg?style=for-the-badge&labelColor=black&logo=precommit&logoColor=FAB040)
-![Polylith](https://img.shields.io/badge/polylith-5282E4.svg?&style=for-the-badge&labelColor=black&logo=polywork&logoColor=6AB932)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54)
 ![pypi](https://img.shields.io/badge/pypi-3775A9.svg?style=for-the-badge&labelColor=black&logo=pypi&logoColor=3775A9)
 ![poetry](https://img.shields.io/badge/poetry-60A5FA.svg?style=for-the-badge&labelColor=black&logo=poetry&logoColor=60A5FA)
