@@ -1,10 +1,5 @@
 ![](/reheader.glitch.me.png)
 # I am a Python backend developer
-
-### Profile visits
-![Visitor Count](https://profile-counter.glitch.me/xm4dn355x/count.svg)
-Just a cool counter 😊
-
 ## My Techs & Tools
 ### Main skills
 ![Git](https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
