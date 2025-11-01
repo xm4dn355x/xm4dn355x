@@ -2,6 +2,8 @@
 # I am a Python backend developer
 ## My Techs & Tools
 ### Main skills
+![DDD](https://img.shields.io/badge/DDD%20%28domain%20driven%20design%29-F05033.svg?&style=for-the-badge&labelColor=black)
+![TDD](https://img.shields.io/badge/TDD%20%28test%20driven%20development%29-F05033.svg?&style=for-the-badge&labelColor=black)
 ![Git](https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ![Conventional Commits](https://img.shields.io/badge/conventional%20commits-FE5196.svg?style=for-the-badge&labelColor=black&logo=conventionalcommits&logoColor=FE5196)
 ![precommit](https://img.shields.io/badge/precommit-FAB040.svg?style=for-the-badge&labelColor=black&logo=precommit&logoColor=FAB040)
@@ -240,7 +242,7 @@ TODO: ДОБАВИТЬ СЮДА m4dn355.dev когда будет готово! 
 ## Social
 [![GitHub](https://img.shields.io/badge/Yamal.dev-12100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/yamal-dev)
 [![Yamal.dev](https://img.shields.io/badge/yamal.dev-12100E.svg?&style=for-the-badge&labelColor=black&logo=GoogleChrome&logoColor=white)](https://yamal.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&labelColor=black&logo=linkedin&logoColor=white)](www.linkedin.com/in/m4dn355)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&labelColor=black)](www.linkedin.com/in/m4dn355)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&labelColor=black&logo=instagram&logoColor=white)](https://instagram.com/xm4dn355x)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/xM4DN355x)
 [![Telegram Channel](https://img.shields.io/badge/telegram%20memes%20channel-D14836?color=2CA5E0&style=for-the-badge&labelColor=black&logo=telegram&logoColor=white)](https://t.me/greta_tuborg)
@@ -250,7 +252,7 @@ TODO: ДОБАВИТЬ СЮДА m4dn355.dev когда будет готово! 
 [![Twitch](https://img.shields.io/badge/twitch-9146FF.svg?&style=for-the-badge&labelColor=black&logo=twitch&logoColor=white)](https://www.twitch.tv/xxm4dn355xx/)
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&labelColor=black&logo=steam&logoColor=white)](https://steamcommunity.com/id/xM4DN355x)
 [![gog.com](https://img.shields.io/badge/gog-86328A.svg?style=for-the-badge&labelColor=black&logo=gogdotcom&logoColor=86328A)](https://www.gog.com/u/xm4dn355x)
-[![Duolingo](https://img.shields.io/badge/duolingo-58CC02.svg?style=for-the-badge&labelColor=black&logo=duolingo&logoColor=58CC02)](https://www.duolingo.com/profile/xm4dn355x)
+[![Duolingo](https://img.shields.io/badge/duolingo%20English%20B1-58CC02.svg?style=for-the-badge&labelColor=black&logo=duolingo&logoColor=58CC02)](https://www.duolingo.com/profile/xm4dn355x)
 <!--
 TODO: Как будет готово добавить блог m4dn355.dev
 [![FaceBook](https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&labelColor=black&logo=facebook&logoColor=white)]()
@@ -284,12 +286,12 @@ TODO: Как будет готово добавить блог m4dn355.dev
 
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
-![JetBrains AllProductsPack](https://img.shields.io/badge/All%20Products%20Pack-143?style=for-the-badge&logo=jetbrains&logoColor=white&color=black&labelColor=black)
+![JetBrains AllProductsPack](https://img.shields.io/badge/JetBrains%20All%20Products%20Pack-143?style=for-the-badge&logo=jetbrains&logoColor=white&color=black&labelColor=black)
 ![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
 ![JetBrains DataGrip](https://img.shields.io/badge/DataGrip-black.svg?style=for-the-badge&labelColor=black&color=purple&logo=datagrip&logoColor=white)
-![JetBrains Webstorm](https://img.shields.io/badge/jetbrains%20webstorm-538DD7.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
+![JetBrains Webstorm](https://img.shields.io/badge/webstorm-538DD7.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
 ![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&color=blue&logo=jetbrains&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=blue)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black)
 
 ![Ubuntu server NL](https://img.shields.io/badge/ubuntu%20server%20NL-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 ![Ubuntu server SW](https://img.shields.io/badge/ubuntu%20server%20SW-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
@@ -299,7 +301,7 @@ TODO: Как будет готово добавить блог m4dn355.dev
 -->
 
 ## My Shoes 😁
-![Nike Dunk low retro](https://img.shields.io/badge/nike-white.svg?style=for-the-badge&labelColor=ea553b&logo=nike&logoColor=white)
+![Nike](https://img.shields.io/badge/nike-white.svg?style=for-the-badge&labelColor=ea553b&logo=nike&logoColor=white)
 
 <!--
 ## Donate please
