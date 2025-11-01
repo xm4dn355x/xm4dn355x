@@ -249,6 +249,7 @@ TODO: ДОБАВИТЬ СЮДА m4dn355.dev когда будет готово! 
 [![YouTube](https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&labelColor=black&logo=youtube&logoColor=white)](https://www.youtube.com/@tech_shirt)
 [![Twitch](https://img.shields.io/badge/twitch-9146FF.svg?&style=for-the-badge&labelColor=black&logo=twitch&logoColor=white)](https://www.twitch.tv/xxm4dn355xx/)
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&labelColor=black&logo=steam&logoColor=white)](https://steamcommunity.com/id/xM4DN355x)
+[![gog.com](https://img.shields.io/badge/gog-86328A.svg?style=for-the-badge&labelColor=black&logo=gogdotcom&logoColor=86328A)](https://www.gog.com/u/xm4dn355x)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02.svg?style=for-the-badge&labelColor=black&logo=duolingo&logoColor=58CC02)](https://www.duolingo.com/profile/xm4dn355x)
 <!--
 TODO: Как будет готово добавить блог m4dn355.dev
@@ -265,7 +266,6 @@ TODO: Как будет готово добавить блог m4dn355.dev
 [![Upwork](https://img.shields.io/badge/upwork-6FDA44.svg?style=for-the-badge&labelColor=black&logo=upwork&logoColor=6FDA44)]()
 
 [![Epic Games](https://img.shields.io/badge/epic%20games-313131.svg?style=for-the-badge&labelColor=black&logo=epicgames&logoColor=313131)]()
-[![gog.com](https://img.shields.io/badge/gog-86328A.svg?style=for-the-badge&labelColor=black&logo=gogdotcom&logoColor=86328A)]()
 [![origin](https://img.shields.io/badge/origin-F56C2D.svg?style=for-the-badge&labelColor=black&logo=origin&logoColor=F56C2D)]()
 [![PlayStation](https://img.shields.io/badge/playstation-003791.svg?style=for-the-badge&labelColor=black&logo=playstation&logoColor=003791)]()
 [![Ubisoft](https://img.shields.io/badge/ubisoft-black.svg?style=for-the-badge&labelColor=black&logo=ubisoft&logoColor=white)]()
@@ -298,6 +298,9 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
 -->
 
+## My Shoes 😁
+![Nike Dunk low retro](https://img.shields.io/badge/nike-white.svg?style=for-the-badge&labelColor=ea553b&logo=nike&logoColor=white)
+
 <!--
 ## Donate please
 ![Buy Me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00.svg?style=for-the-badge&labelColor=black&logo=buymeacoffee&logoColor=FFDD00)
@@ -313,6 +316,5 @@ Misc
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B.svg?style=for-the-badge&labelColor=black&logo=anydesk&logoColor=EF443B)
 ![Awesome Lists](https://img.shields.io/badge/Awesome%20Some%20Repo-FC60A8.svg?style=for-the-badge&labelColor=black&logo=awesomelists&logoColor=FC60A8)
 ![Bio Link](https://img.shields.io/badge/Bio%20Link-000000.svg?style=for-the-badge&labelColor=black&logo=biolink&logoColor=white)
-![Nike](https://img.shields.io/badge/nike-white.svg?style=for-the-badge&labelColor=black&logo=nike&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/dropbox-0061FF.svg?style=for-the-badge&labelColor=black&logo=dropbox&logoColor=0061FF)
 -->
