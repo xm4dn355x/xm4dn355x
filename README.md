@@ -60,6 +60,7 @@
 ![Hashicorp Vault](https://img.shields.io/badge/vault-FFEC6E.svg?style=for-the-badge&labelColor=black&logo=vault&logoColor=FFEC6E)
 ![.env](https://img.shields.io/badge/.env-ECD53F.svg?&style=for-the-badge&labelColor=black&logo=.env&logoColor=ECD53F)
 ![Markdown](https://img.shields.io/badge/markdown-FFFFFF.svg?&style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
+![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&labelColor=black&logo=mermaid&logoColor=FF3670)
 ![Cookiecutter](https://img.shields.io/badge/cookiecutter-D4AA00.svg?style=for-the-badge&labelColor=black&logo=cookiecutter&logoColor=D4AA00)
 ![Jinja2](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&labelColor=black&logo=jinja&logoColor=white)
 <!--
@@ -174,7 +175,6 @@
 ![mikrotik](https://img.shields.io/badge/mikrotik-293239.svg?style=for-the-badge&labelColor=black&logo=mikrotik&logoColor=293239)
 
 ![latex](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&labelColor=black&logo=latex&logoColor=008080)
-![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&labelColor=black&logo=mermaid&logoColor=FF3670)
 
 ![Font Awesome](https://img.shields.io/badge/font%20awesome-528DD7.svg?style=for-the-badge&labelColor=black&logo=fontawesome&logoColor=528DD7)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
@@ -239,19 +239,6 @@ I'm Python developer and co-founder of [Yamal.dev](https://yamal.dev).
 TODO: ДОБАВИТЬ СЮДА m4dn355.dev когда будет готово! [m4dn355.dev](https://m4dn355.dev) и Проект Синяя Изолента [Бот Синяя Изолента](https://t.me/blue_tape_bot)
 -->
 
-## Current target
-- Build my own Kubernetes cluster (in progress).
-
-## My stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xm4dn355x&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4dn355x&theme=tokyonight&hide_langs_below=1&layout=compact" />
-</a>
-
-[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app/?user=xm4dn355x&theme=tokyonight-duo)](https://git.io/streak-stats)
-
 ## Social
 [![GitHub](https://img.shields.io/badge/Yamal.dev-12100E.svg?&style=for-the-badge&labelColor=black&logo=Github&logoColor=white)](https://github.com/yamal-dev)
 [![Yamal.dev](https://img.shields.io/badge/yamal.dev-12100E.svg?&style=for-the-badge&labelColor=black&logo=GoogleChrome&logoColor=white)](https://yamal.dev)
@@ -271,7 +258,6 @@ TODO: Как будет готово добавить блог m4dn355.dev
 [![FaceBook](https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&labelColor=black&logo=facebook&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&labelColor=black&logo=twitter&logoColor=white)](https://twitter.com/m4dn355)
 [![icq](https://img.shields.io/badge/icq-24FF00.svg?style=for-the-badge&labelColor=black&logo=icq&logoColor=24FF00)]()
-[![Spotify](https://img.shields.io/badge/spotify-1ED760.svg?&style=for-the-badge&labelColor=black&logo=spotify&logoColor=white)](https://open.spotify.com/user/wi26c39cqtcidjezk59rzwws9?si=TjbWce9QQDqZgYHQODthAg)
 [![CodePen](https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&labelColor=black&logo=codepen&logoColor=white)]()
 [![pastebin](https://img.shields.io/badge/pastebin-02456C.svg?style=for-the-badge&labelColor=black&logo=pastebin&logoColor=02456C)]()
 [![dev.to](https://img.shields.io/badge/dev%20to-0A0A0A.svg?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=0A0A0A)]()
@@ -333,3 +319,13 @@ Misc
 ![Bio Link](https://img.shields.io/badge/Bio%20Link-000000.svg?style=for-the-badge&labelColor=black&logo=biolink&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/dropbox-0061FF.svg?style=for-the-badge&labelColor=black&logo=dropbox&logoColor=0061FF)
 -->
+
+## Stats for fun
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xm4dn355x&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4dn355x&theme=tokyonight&hide_langs_below=1&layout=compact" />
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app/?user=xm4dn355x&theme=tokyonight-duo)](https://git.io/streak-stats)
