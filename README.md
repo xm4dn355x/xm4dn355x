@@ -63,6 +63,9 @@
 ![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&labelColor=black&logo=mermaid&logoColor=FF3670)
 ![Cookiecutter](https://img.shields.io/badge/cookiecutter-D4AA00.svg?style=for-the-badge&labelColor=black&logo=cookiecutter&logoColor=D4AA00)
 ![Jinja2](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&labelColor=black&logo=jinja&logoColor=white)
+[![Nox](https://img.shields.io/badge/%F0%9F%A6%8A-Nox-D85E00.svg?style=for-the-badge&labelColor=black)](https://github.com/wntrblm/nox)
+![Makefile](https://img.shields.io/badge/makefile-FFFFFF.svg?&style=for-the-badge&logoColor=white)
+![Poe The Poet](https://img.shields.io/badge/poe%20the%20poet-FFFFFF.svg?&style=for-the-badge&logoColor=white)
 <!--
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&labelColor=black&logo=opencv&logoColor=5C3EE8)
