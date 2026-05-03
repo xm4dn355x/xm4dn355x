@@ -8,6 +8,7 @@
 ![GitFlow](https://img.shields.io/badge/gitflow-F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ![Trunk-based-development](https://img.shields.io/badge/trunk%20based%20dev-F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ![Conventional Commits](https://img.shields.io/badge/conventional%20commits-FE5196.svg?style=for-the-badge&labelColor=black&logo=conventionalcommits&logoColor=FE5196)
+![Conventional Commits](https://img.shields.io/badge/conventional%20commits-FE5196.svg?style=for-the-badge&labelColor=black&logo=conventionalcommits&logoColor=FE5196)
 ![precommit](https://img.shields.io/badge/precommit-FAB040.svg?style=for-the-badge&labelColor=black&logo=precommit&logoColor=FAB040)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54)
 ![pypi](https://img.shields.io/badge/pypi-3775A9.svg?style=for-the-badge&labelColor=black&logo=pypi&logoColor=3775A9)
@@ -58,6 +59,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-white?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![HashiCorp](https://img.shields.io/badge/hashicorp-FFEC6E.svg?style=for-the-badge&labelColor=black&logo=hashicorp&logoColor=FFEC6E)
 ![Hashicorp Vault](https://img.shields.io/badge/vault-FFEC6E.svg?style=for-the-badge&labelColor=black&logo=vault&logoColor=FFEC6E)
+![Infisical](https://img.shields.io/badge/infisical-D7FF64.svg?style=for-the-badge&labelColor=black&logo=vault&logoColor=D7FF64)
 ![.env](https://img.shields.io/badge/.env-ECD53F.svg?&style=for-the-badge&labelColor=black&logo=.env&logoColor=ECD53F)
 ![Markdown](https://img.shields.io/badge/markdown-FFFFFF.svg?&style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
 ![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&labelColor=black&logo=mermaid&logoColor=FF3670)
@@ -109,6 +111,7 @@
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-e24329.svg?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=e24329)
 ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&labelColor=black&logo=grafana&logoColor=F46800)
 ![Sentry](https://img.shields.io/badge/sentry-362D59.svg?style=for-the-badge&labelColor=black&logo=sentry&logoColor=362D59)
 ![Uptime Kuma](https://img.shields.io/badge/uptime%20kuma-5CDD8B.svg?style=for-the-badge&labelColor=black&logo=uptimekuma&logoColor=5CDD8B)
@@ -157,7 +160,6 @@
 
 ![Ansible](https://img.shields.io/badge/ansible-1A1918.svg?&style=for-the-badge&labelColor=black&logo=ansible&logoColor=white)
 ![terraform](https://img.shields.io/badge/terraform-844FBA.svg?style=for-the-badge&labelColor=black&logo=terraform&logoColor=844FBA)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-181717.svg?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=white)
 ![travis CI](https://img.shields.io/badge/travisci-3EAAAF.svg?style=for-the-badge&labelColor=black&logo=travisci&logoColor=3EAAAF)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)
@@ -191,6 +193,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-172BF4.svg?style=for-the-badge&labelColor=black&logo=confluence&logoColor=172BF4)
 ![MkDocs](https://img.shields.io/badge/mkdocs-526CFE.svg?style=for-the-badge&labelColor=black&logo=materialformkdocs&logoColor=526CFE)
 ![redmine](https://img.shields.io/badge/redmine-B32024.svg?style=for-the-badge&labelColor=black&logo=redmine&logoColor=B32024)
+![GitLab SelfHosted](https://img.shields.io/badge/gitlab%20selfhosted-e24329.svg?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=e24329)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&labelColor=black&logo=slack&logoColor=FFFC00)
 ![miro](https://img.shields.io/badge/miro-FFFC00.svg?style=for-the-badge&labelColor=black&logo=miro&logoColor=FFFC00)
 ![diagrams.net](https://img.shields.io/badge/diagrams%2enet-F08705.svg?style=for-the-badge&labelColor=black&logo=diagramsdotnet&logoColor=F08705)
@@ -216,6 +219,7 @@
 ![Microsoft Office Powerpoint](https://img.shields.io/badge/powerpoint-B7472A.svg?style=for-the-badge&labelColor=black)
 ![Microsoft Office Visio](https://img.shields.io/badge/visio-3955A3.svg?style=for-the-badge&labelColor=black)
 ![OLLAMA](https://img.shields.io/badge/ollama-FFFFFF.svg?style=for-the-badge&labelColor=black&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/lmstudio-4338CA.svg?style=for-the-badge&labelColor=black&logo=ollama&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/comfyui-0525f5.svg?style=for-the-badge&labelColor=black&logo=ollama&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C.svg?style=for-the-badge&labelColor=black&logo=dependabot&logoColor=025E8C)
 ![huggingface](https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=FFD21E)
@@ -288,11 +292,7 @@ TODO: Как будет готово добавить блог m4dn355.dev
 
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
-![JetBrains AllProductsPack](https://img.shields.io/badge/JetBrains%20All%20Products%20Pack-143?style=for-the-badge&logo=jetbrains&logoColor=white&color=black&labelColor=black)
-![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
-![JetBrains DataGrip](https://img.shields.io/badge/DataGrip-black.svg?style=for-the-badge&labelColor=black&color=purple&logo=datagrip&logoColor=white)
-![JetBrains Webstorm](https://img.shields.io/badge/webstorm-538DD7.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
-![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&color=blue&logo=jetbrains&logoColor=white)
+![OpenIDE](https://img.shields.io/badge/OpenIDE-4d409b.svg?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=4d409b)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black)
 
 ![Ubuntu server NL](https://img.shields.io/badge/ubuntu%20server%20NL-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
@@ -300,6 +300,12 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ![Debian server RU](https://img.shields.io/badge/Debian%20server%20RU-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
 <!--
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
+
+![JetBrains AllProductsPack](https://img.shields.io/badge/JetBrains%20All%20Products%20Pack-143?style=for-the-badge&logo=jetbrains&logoColor=white&color=black&labelColor=black)
+![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=black)
+![JetBrains DataGrip](https://img.shields.io/badge/DataGrip-black.svg?style=for-the-badge&labelColor=black&color=purple&logo=datagrip&logoColor=white)
+![JetBrains Webstorm](https://img.shields.io/badge/webstorm-538DD7.svg?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white)
+![JetBrains Fleet](https://img.shields.io/badge/Fleet-black.svg?style=for-the-badge&labelColor=black&color=blue&logo=jetbrains&logoColor=white)
 -->
 
 ## My Shoes 😁
