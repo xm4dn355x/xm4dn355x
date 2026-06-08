@@ -60,6 +60,7 @@
 ![HashiCorp](https://img.shields.io/badge/hashicorp-FFEC6E.svg?style=for-the-badge&labelColor=black&logo=hashicorp&logoColor=FFEC6E)
 ![Hashicorp Vault](https://img.shields.io/badge/vault-FFEC6E.svg?style=for-the-badge&labelColor=black&logo=vault&logoColor=FFEC6E)
 ![Infisical](https://img.shields.io/badge/infisical-D7FF64.svg?style=for-the-badge&labelColor=black&logo=vault&logoColor=D7FF64)
+![KeyCloak](https://img.shields.io/badge/keycloak-4D4D4D.svg?style=for-the-badge&labelColor=black&logo=keycloak&logoColor=4D4D4D)
 ![.env](https://img.shields.io/badge/.env-ECD53F.svg?&style=for-the-badge&labelColor=black&logo=.env&logoColor=ECD53F)
 ![Markdown](https://img.shields.io/badge/markdown-FFFFFF.svg?&style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
 ![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&labelColor=black&logo=mermaid&logoColor=FF3670)
@@ -112,6 +113,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-e24329.svg?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=e24329)
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&labelColor=black&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&labelColor=black&logo=grafana&logoColor=F46800)
 ![Sentry](https://img.shields.io/badge/sentry-362D59.svg?style=for-the-badge&labelColor=black&logo=sentry&logoColor=362D59)
 ![Uptime Kuma](https://img.shields.io/badge/uptime%20kuma-5CDD8B.svg?style=for-the-badge&labelColor=black&logo=uptimekuma&logoColor=5CDD8B)
@@ -163,7 +165,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=white)
 ![travis CI](https://img.shields.io/badge/travisci-3EAAAF.svg?style=for-the-badge&labelColor=black&logo=travisci&logoColor=3EAAAF)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&labelColor=black&logo=prometheus&logoColor=E6522C)
 ![OpenStack](https://img.shields.io/badge/openstack-ED1944.svg?style=for-the-badge&labelColor=black&logo=openstack&logoColor=ED1944)
 ![OpenShift](https://img.shields.io/badge/openshift-EE0000.svg?style=for-the-badge&labelColor=black&logo=redhatopenshift&logoColor=EE0000)
 ![podman](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&labelColor=black&logo=podman&logoColor=892CA0)
@@ -297,6 +298,7 @@ TODO: Как будет готово добавить блог m4dn355.dev
 
 ![Ubuntu server NL](https://img.shields.io/badge/ubuntu%20server%20NL-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 ![Ubuntu server SW](https://img.shields.io/badge/ubuntu%20server%20SW-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
+![Ubuntu server FI](https://img.shields.io/badge/ubuntu%20server%20FI-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 ![Debian server RU](https://img.shields.io/badge/Debian%20server%20RU-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
 <!--
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
