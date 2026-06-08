@@ -8,7 +8,7 @@
 ![GitFlow](https://img.shields.io/badge/gitflow-F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ![Trunk-based-development](https://img.shields.io/badge/trunk%20based%20dev-F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ![Conventional Commits](https://img.shields.io/badge/conventional%20commits-FE5196.svg?style=for-the-badge&labelColor=black&logo=conventionalcommits&logoColor=FE5196)
-![Conventional Commits](https://img.shields.io/badge/conventional%20commits-FE5196.svg?style=for-the-badge&labelColor=black&logo=conventionalcommits&logoColor=FE5196)
+![Conventional Branch Names](https://img.shields.io/badge/conventional%20branch%20names-FE5196.svg?style=for-the-badge&labelColor=black&logo=conventionalcommits&logoColor=FE5196)
 ![precommit](https://img.shields.io/badge/precommit-FAB040.svg?style=for-the-badge&labelColor=black&logo=precommit&logoColor=FAB040)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54)
 ![pypi](https://img.shields.io/badge/pypi-3775A9.svg?style=for-the-badge&labelColor=black&logo=pypi&logoColor=3775A9)
