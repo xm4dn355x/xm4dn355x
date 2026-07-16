@@ -292,13 +292,12 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ![RX580](https://img.shields.io/badge/Sapphire%20Nitro-RX580%208Gb-ED1C24.svg?&style=for-the-badge&labelColor=blue&logo=amd&logoColor=white)
 
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
+![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2013%202018%20as%20server-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
 ![OpenIDE](https://img.shields.io/badge/OpenIDE-4d409b.svg?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=4d409b)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black)
 
 ![Ubuntu server NL](https://img.shields.io/badge/ubuntu%20server%20NL-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
-![Ubuntu server SW](https://img.shields.io/badge/ubuntu%20server%20SW-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
-![Ubuntu server FI](https://img.shields.io/badge/ubuntu%20server%20FI-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 ![Debian server RU](https://img.shields.io/badge/Debian%20server%20RU-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
 <!--
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
