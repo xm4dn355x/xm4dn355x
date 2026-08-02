@@ -198,6 +198,7 @@
 ![JetBrains YouTrack](https://img.shields.io/badge/JetBrains%20YouTrack-e20f86?style=for-the-badge&logo=jetbrains&logoColor=e20f86&labelColor=black)
 ![linear](https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge&labelColor=black&logo=linear&logoColor=5E6AD2)
 ![Confluence](https://img.shields.io/badge/confluence-172BF4.svg?style=for-the-badge&labelColor=black&logo=confluence&logoColor=172BF4)
+![Notion](https://img.shields.io/badge/Notion-white.svg?style=for-the-badge&labelColor=black&logo=notion&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/mkdocs-526CFE.svg?style=for-the-badge&labelColor=black&logo=materialformkdocs&logoColor=526CFE)
 ![redmine](https://img.shields.io/badge/redmine-B32024.svg?style=for-the-badge&labelColor=black&logo=redmine&logoColor=B32024)
 ![GitLab SelfHosted](https://img.shields.io/badge/gitlab%20selfhosted-e24329.svg?style=for-the-badge&labelColor=black&logo=gitlab&logoColor=e24329)
