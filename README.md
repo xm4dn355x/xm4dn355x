@@ -104,6 +104,8 @@
 ![neo4j](https://img.shields.io/badge/neo4j-4581C3.svg?style=for-the-badge&labelColor=black&logo=neo4j&logoColor=4581C3)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=white)
 
+![Authentik](https://img.shields.io/badge/authentik-FD4B2C.svg?style=for-the-badge&labelColor=black&logo=authentik&logoColor=FD4B2C)
+
 ![Graylog](https://img.shields.io/badge/graylog-FF3633.svg?style=for-the-badge&labelColor=black&logo=graylog&logoColor=FF3633)
 -->
 
@@ -156,6 +158,9 @@
 ![prettier](https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&labelColor=black&logo=prettier&logoColor=F7B93E)
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)
 
+![Google Analytics](https://img.shields.io/badge/google%20analytics-E37400.svg?style=for-the-badge&labelColor=black&logo=googleanalytics&logoColor=E37400)
+![Plausible](https://img.shields.io/badge/plausible-584FEC.svg?style=for-the-badge&labelColor=black&logo=googleanalytics&logoColor=584FEC)
+
 ![Golang](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8)
 ![rust](https://img.shields.io/badge/rust-black.svg?style=for-the-badge&labelColor=black&logo=rust&logoColor=white)
 ![lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&labelColor=black&logo=lua&logoColor=2C2D72)
@@ -183,7 +188,8 @@
 ![latex](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&labelColor=black&logo=latex&logoColor=008080)
 
 ![Font Awesome](https://img.shields.io/badge/font%20awesome-528DD7.svg?style=for-the-badge&labelColor=black&logo=fontawesome&logoColor=528DD7)
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)
+![Figma](https://img.shields.io/badge/figma-A258FF.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=A258FF)
+![Penpot](https://img.shields.io/badge/penpot-15CECA.svg?style=for-the-badge&labelColor=white&logo=penpot&logoColor=black)
 -->
 
 ### Projects, Teams & Docs
@@ -225,6 +231,7 @@
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C.svg?style=for-the-badge&labelColor=black&logo=dependabot&logoColor=025E8C)
 ![huggingface](https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=FFD21E)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=183A61)
+![RustDesk](https://img.shields.io/badge/rustdesk-0188F7.svg?style=for-the-badge&labelColor=black&logo=rustdesk&logoColor=0188F7)
 
 ### Hobby skills
 ![C language](https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&labelColor=black&logo=c&logoColor=white)
@@ -292,13 +299,14 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ![RX580](https://img.shields.io/badge/Sapphire%20Nitro-RX580%208Gb-ED1C24.svg?&style=for-the-badge&labelColor=blue&logo=amd&logoColor=white)
 
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
-![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2013%202018%20as%20server-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
 ![OpenIDE](https://img.shields.io/badge/OpenIDE-4d409b.svg?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=4d409b)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black)
+![TablePro](https://img.shields.io/badge/tablepro-F77F00.svg?style=for-the-badge&labelColor=black&logo=databricks&logoColor=F77F00)
 
 ![Ubuntu server NL](https://img.shields.io/badge/ubuntu%20server%20NL-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 ![Debian server RU](https://img.shields.io/badge/Debian%20server%20RU-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
+![MacOs server RU](https://img.shields.io/badge/macos%20server%20RU-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 <!--
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi%204-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)
 
