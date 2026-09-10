@@ -56,18 +56,19 @@
 ![MkDocs](https://img.shields.io/badge/mkdocs-526CFE.svg?style=for-the-badge&labelColor=black&logo=materialformkdocs&logoColor=526CFE)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&labelColor=black&logo=swagger&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-white?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![SonarQube](https://img.shields.io/badge/SonarQube-white?style=for-the-badge&labelColor=black&logo=sonarqubeserver&logoColor=4E9BCD)
 ![HashiCorp](https://img.shields.io/badge/hashicorp-FFEC6E.svg?style=for-the-badge&labelColor=black&logo=hashicorp&logoColor=FFEC6E)
 ![Hashicorp Vault](https://img.shields.io/badge/vault-FFEC6E.svg?style=for-the-badge&labelColor=black&logo=vault&logoColor=FFEC6E)
 ![Infisical](https://img.shields.io/badge/infisical-D7FF64.svg?style=for-the-badge&labelColor=black&logo=vault&logoColor=D7FF64)
 ![KeyCloak](https://img.shields.io/badge/keycloak-4D4D4D.svg?style=for-the-badge&labelColor=black&logo=keycloak&logoColor=4D4D4D)
+![Authentik](https://img.shields.io/badge/authentik-FD4B2C.svg?style=for-the-badge&labelColor=black&logo=authentik&logoColor=FD4B2C)
 ![.env](https://img.shields.io/badge/.env-ECD53F.svg?&style=for-the-badge&labelColor=black&logo=.env&logoColor=ECD53F)
 ![Markdown](https://img.shields.io/badge/markdown-FFFFFF.svg?&style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
 ![mermaid](https://img.shields.io/badge/mermaid-FF3670.svg?style=for-the-badge&labelColor=black&logo=mermaid&logoColor=FF3670)
 ![Cookiecutter](https://img.shields.io/badge/cookiecutter-D4AA00.svg?style=for-the-badge&labelColor=black&logo=cookiecutter&logoColor=D4AA00)
 ![Jinja2](https://img.shields.io/badge/jinja2-white.svg?style=for-the-badge&labelColor=black&logo=jinja&logoColor=white)
 [![Nox](https://img.shields.io/badge/%F0%9F%A6%8A-Nox-D85E00.svg?style=for-the-badge&labelColor=black)](https://github.com/wntrblm/nox)
-![Makefile](https://img.shields.io/badge/makefile-FFFFFF.svg?&style=for-the-badge&logoColor=white)
+![Makefile](https://img.shields.io/badge/makefile-6D00CC.svg?&style=for-the-badge&labelColor=black&logo=make&logoColor=6D00CC)
 ![Poe The Poet](https://img.shields.io/badge/poe%20the%20poet-FFFFFF.svg?&style=for-the-badge&logoColor=white)
 <!--
 ![numpy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)
@@ -103,8 +104,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
 ![neo4j](https://img.shields.io/badge/neo4j-4581C3.svg?style=for-the-badge&labelColor=black&logo=neo4j&logoColor=4581C3)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&labelColor=black&logo=supabase&logoColor=white)
-
-![Authentik](https://img.shields.io/badge/authentik-FD4B2C.svg?style=for-the-badge&labelColor=black&logo=authentik&logoColor=FD4B2C)
+![Nats](https://img.shields.io/badge/nats-27AAE1.svg?style=for-the-badge&labelColor=black&logo=natsdotio&logoColor=27AAE1)
 
 ![Graylog](https://img.shields.io/badge/graylog-FF3633.svg?style=for-the-badge&labelColor=black&logo=graylog&logoColor=FF3633)
 -->
@@ -119,6 +119,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&labelColor=black&logo=grafana&logoColor=F46800)
 ![Sentry](https://img.shields.io/badge/sentry-362D59.svg?style=for-the-badge&labelColor=black&logo=sentry&logoColor=362D59)
 ![Uptime Kuma](https://img.shields.io/badge/uptime%20kuma-5CDD8B.svg?style=for-the-badge&labelColor=black&logo=uptimekuma&logoColor=5CDD8B)
+![Gatus](https://img.shields.io/badge/gatus-41B883.svg?style=for-the-badge&labelColor=black&logo=uptimekuma&logoColor=41B883)
 ![Google Lighthouse](https://img.shields.io/badge/lighthouse-F44B21.svg?style=for-the-badge&labelColor=black&logo=lighthouse&logoColor=F44B21)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)
 ![tqdm](https://img.shields.io/badge/tqdm-FFC107.svg?style=for-the-badge&labelColor=black&logo=tqdm&logoColor=FFC107)
@@ -211,7 +212,8 @@
 -->
 
 ### Tools
-![warp](https://img.shields.io/badge/warp-01A4FF.svg?style=for-the-badge&labelColor=black&logo=warp&logoColor=01A4FF)
+![Wave Terminal](https://img.shields.io/badge/wave%20terminal-50FA7B.svg?style=for-the-badge&labelColor=black&logo=warp&logoColor=50FA7B)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A743.svg?style=for-the-badge&labelColor=black&logo=neovim&logoColor=57A743)
 ![raycast](https://img.shields.io/badge/raycast-FF6363.svg?style=for-the-badge&labelColor=black&logo=raycast&logoColor=FF6363)
 ![curl](https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&labelColor=white&logo=curl&logoColor=073551)
 ![htop](https://img.shields.io/badge/htop-009020.svg?style=for-the-badge&labelColor=black&logo=htop&logoColor=009020)
@@ -227,7 +229,7 @@
 ![Microsoft Office Powerpoint](https://img.shields.io/badge/powerpoint-B7472A.svg?style=for-the-badge&labelColor=black)
 ![Microsoft Office Visio](https://img.shields.io/badge/visio-3955A3.svg?style=for-the-badge&labelColor=black)
 ![OLLAMA](https://img.shields.io/badge/ollama-FFFFFF.svg?style=for-the-badge&labelColor=black&logo=ollama&logoColor=white)
-![LM Studio](https://img.shields.io/badge/lmstudio-4338CA.svg?style=for-the-badge&labelColor=black&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/lmstudio-4338CA.svg?style=for-the-badge&labelColor=black&logo=lmstudio&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/comfyui-0525f5.svg?style=for-the-badge&labelColor=black&logo=ollama&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C.svg?style=for-the-badge&labelColor=black&logo=dependabot&logoColor=025E8C)
 ![huggingface](https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=FFD21E)
@@ -295,12 +297,16 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ## My working setup
 ![Ryzen](https://img.shields.io/badge/AMD%20Ryzen%207%202700X-Windows%2011-999999.svg?&style=for-the-badge&labelColor=ED1C24&logo=amd&logoColor=white)
 ![Nvidia](https://img.shields.io/badge/Nvidia-RTX%203070%208Gb-999999.svg?&style=for-the-badge&labelColor=green&logo=nvidia&logoColor=white)
+![Comfy UI](https://img.shields.io/badge/comfy%20ui-F2FF59.svg?&style=for-the-badge&labelColor=black&logo=lmstudio&logoColor=F2FF59)
+![LM Studio](https://img.shields.io/badge/lm%20studio-4338CA.svg?&style=for-the-badge&labelColor=black&logo=lmstudio&logoColor=4338CA)
 
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-iMac%20pro-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 ![RX580](https://img.shields.io/badge/Sapphire%20Nitro-RX580%208Gb-ED1C24.svg?&style=for-the-badge&labelColor=blue&logo=amd&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-ffffff.svg?&style=for-the-badge&labelColor=black&logo=ollama&logoColor=ffffff)
 
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
+![NeoVim](https://img.shields.io/badge/NeoVim-57A743.svg?style=for-the-badge&labelColor=black&logo=neovim&logoColor=57A743)
 ![OpenIDE](https://img.shields.io/badge/OpenIDE-4d409b.svg?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=4d409b)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black)
 ![TablePro](https://img.shields.io/badge/tablepro-F77F00.svg?style=for-the-badge&labelColor=black&logo=databricks&logoColor=F77F00)
