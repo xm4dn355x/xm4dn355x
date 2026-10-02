@@ -46,6 +46,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&labelColor=black&logo=redis&logoColor=DD0031)
+![Valkey](https://img.shields.io/badge/valkey-6983ff.svg?style=for-the-badge&labelColor=black&logo=redis&logoColor=6983ff)
 ![S3](https://img.shields.io/badge/S3%20%28Yandex%2c%20Selectel%2c%20amazon%29-569A31.svg?style=for-the-badge&labelColor=black)
 ![MinIO](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&labelColor=black&logo=minio&logoColor=C72E49)
 ![Elastic](https://img.shields.io/badge/elastic-005571.svg?style=for-the-badge&labelColor=white&logo=elastic&logoColor=005571)
