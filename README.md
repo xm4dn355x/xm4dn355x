@@ -316,6 +316,7 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ![TablePro](https://img.shields.io/badge/tablepro-F77F00.svg?style=for-the-badge&labelColor=black&logo=databricks&logoColor=F77F00)
 
 ![Ubuntu server NL](https://img.shields.io/badge/ubuntu%20server%20NL-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
+![Ubuntu server KZ](https://img.shields.io/badge/ubuntu%20server%20KZ-E95420?&style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)
 ![Debian server RU](https://img.shields.io/badge/Debian%20server%20RU-D70A53?style=for-the-badge&labelColor=black&logo=debian&logoColor=white)
 ![MacOs server RU](https://img.shields.io/badge/macos%20server%20RU-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 <!--
