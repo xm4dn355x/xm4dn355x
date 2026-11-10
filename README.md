@@ -126,6 +126,7 @@
 ![tqdm](https://img.shields.io/badge/tqdm-FFC107.svg?style=for-the-badge&labelColor=black&logo=tqdm&logoColor=FFC107)
 ![OpenStreetMap](https://img.shields.io/badge/openstreetmap-7EBC6F.svg?style=for-the-badge&labelColor=black&logo=openstreetmap&logoColor=7EBC6F)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)
+![ffmpeg](https://img.shields.io/badge/ffmpeg-007808.svg?style=for-the-badge&labelColor=black&logo=ffmpeg&logoColor=007808)
 ![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF.svg?style=for-the-badge&labelColor=black&logo=digitalocean&logoColor=0080FF)
 ![MailChimp](https://img.shields.io/badge/mailchimp-FFE01B.svg?style=for-the-badge&labelColor=black&logo=mailchimp&logoColor=FFE01B)
 ![Let's Encrypt](https://img.shields.io/badge/lets%20encrypt-003A70.svg?style=for-the-badge&labelColor=black&logo=letsencrypt&logoColor=003A70)
@@ -133,6 +134,8 @@
 ![traefik](https://img.shields.io/badge/traefik-24A1C1.svg?style=for-the-badge&labelColor=black&logo=traefikproxy&logoColor=24A1C1)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&labelColor=black&logo=apache&logoColor=D22128)
 ![Wireguard](https://img.shields.io/badge/wireguard-88171A.svg?style=for-the-badge&labelColor=black&logo=wireguard&logoColor=white)
+![Amnezia Wireguard](https://img.shields.io/badge/amnezia%20wireguard-88171A.svg?style=for-the-badge&labelColor=black&logo=wireguard&logoColor=white)
+![XRay](https://img.shields.io/badge/xray-88171A.svg?style=for-the-badge&labelColor=black&logo=wireguard&logoColor=white)
 ![BitWarden](https://img.shields.io/badge/bitwarden-175DDC.svg?style=for-the-badge&labelColor=black&logo=bitwarden&logoColor=175DDC)
 ![vaultwarden](https://img.shields.io/badge/vaultwarden-175DDC.svg?style=for-the-badge&labelColor=black&logo=vaultwarden&logoColor=175DDC)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&labelColor=black&logo=n8n&logoColor=EA4B71)
@@ -181,8 +184,6 @@
 ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&labelColor=black&logo=cloudflare&logoColor=F38020)
 
 ![heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&labelColor=black&logo=heroku&logoColor=430098)
-
-![ffmpeg](https://img.shields.io/badge/ffmpeg-007808.svg?style=for-the-badge&labelColor=black&logo=ffmpeg&logoColor=007808)
 
 ![nextcloud](https://img.shields.io/badge/nextcloud-0082C9.svg?style=for-the-badge&labelColor=black&logo=nextcloud&logoColor=0082C9)
 ![mikrotik](https://img.shields.io/badge/mikrotik-293239.svg?style=for-the-badge&labelColor=black&logo=mikrotik&logoColor=293239)
@@ -236,6 +237,7 @@
 ![huggingface](https://img.shields.io/badge/huggingface-FFD21E.svg?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=FFD21E)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=183A61)
 ![RustDesk](https://img.shields.io/badge/rustdesk-0188F7.svg?style=for-the-badge&labelColor=black&logo=rustdesk&logoColor=0188F7)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B.svg?style=for-the-badge&labelColor=black&logo=anydesk&logoColor=EF443B)
 
 ### Hobby skills
 ![C language](https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&labelColor=black&logo=c&logoColor=white)
@@ -308,6 +310,7 @@ TODO: Как будет готово добавить блог m4dn355.dev
 ![MacBook](https://img.shields.io/badge/apple-macbook%20pro%2016%202019-999999.svg?&style=for-the-badge&labelColor=black&logo=apple&logoColor=white)
 
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A743.svg?style=for-the-badge&labelColor=black&logo=neovim&logoColor=57A743)
+![Zed IDE](https://img.shields.io/badge/Zed%20IDE-084CCF.svg?style=for-the-badge&labelColor=black&logo=zedindustries&logoColor=084CCF)
 ![OpenIDE](https://img.shields.io/badge/OpenIDE-4d409b.svg?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=4d409b)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black)
 ![TablePro](https://img.shields.io/badge/tablepro-F77F00.svg?style=for-the-badge&labelColor=black&logo=databricks&logoColor=F77F00)
@@ -340,7 +343,6 @@ TODO: Как будет готово добавить блог m4dn355.dev
 <!--
 Misc
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)
-![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B.svg?style=for-the-badge&labelColor=black&logo=anydesk&logoColor=EF443B)
 ![Awesome Lists](https://img.shields.io/badge/Awesome%20Some%20Repo-FC60A8.svg?style=for-the-badge&labelColor=black&logo=awesomelists&logoColor=FC60A8)
 ![Bio Link](https://img.shields.io/badge/Bio%20Link-000000.svg?style=for-the-badge&labelColor=black&logo=biolink&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/dropbox-0061FF.svg?style=for-the-badge&labelColor=black&logo=dropbox&logoColor=0061FF)
